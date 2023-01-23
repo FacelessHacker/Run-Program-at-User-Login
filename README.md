@@ -1,2 +1,36 @@
-# Rahmah
-Running a Program at System Logon for Persistency
+# Practical A
+
+### Running a Program at System Logon for Persistency using Windows Registry
+
+### Case Study: Calc.exe File 
+
+##### Accessing Windows Registry Through the Start Icon
+
+- Click on the start icon on the keyboard or on the system
+
+- Enter 'Registry Editor' in the search colomn.
+
+- Registry Editor App will appear, click on it.
+
+- Alas! Here we are!!
+
+- Note that Windows Registry is the Registry Editor.
+
+
+
+##### Accessing Registry Editor Through 'regedit'
+- Press the windows logo key + R .
+
+- You will see a search colomn, enter the command 
+```
+regedit
+
+```
+- Click okay.
+Boom!!! the Registry Editor is opened!!
+
+
+
+##### Steps to Run the Program on Registry Editor
+
+- hkjh
