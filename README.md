@@ -54,7 +54,7 @@ regedit
 
 - From the Edit menu select New - String Value.
 
-![UI Image](
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(17).png)
 
 - A column will appear 
 
