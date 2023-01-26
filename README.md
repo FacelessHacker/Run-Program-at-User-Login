@@ -46,9 +46,12 @@ regedit
 ##### Steps to Run the Program on Registry Editor
 - Click on Computer
 
-![UI Image](
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(13).png)
 
 - Move to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run .
+
+![UI Image](
+
 - From the Edit menu select New - String Value.
 
 ![UI Image](
