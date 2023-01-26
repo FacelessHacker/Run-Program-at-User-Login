@@ -29,9 +29,10 @@ regedit
 - Click okay.
 
 
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Image%201.png)
 
+- Boom!!! the Registry Editor is opened!!
 
-Boom!!! the Registry Editor is opened!!
 
 
 
