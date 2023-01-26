@@ -19,7 +19,7 @@
 
 - Alas! Here we are!!
 
-![UI Image](
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(12).png)
 
 - Note that Windows Registry is the Registry Editor.
 
