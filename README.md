@@ -8,11 +8,18 @@
 
 - Click on the start icon on the keyboard or on the system
 
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(10).png)
+
+
 - Enter 'Registry Editor' in the search colomn.
+
+![UI Image](
 
 - Registry Editor App will appear, click on it.
 
 - Alas! Here we are!!
+
+![UI Image](
 
 - Note that Windows Registry is the Registry Editor.
 
@@ -38,12 +45,30 @@ regedit
 
 ##### Steps to Run the Program on Registry Editor
 - Click on Computer
+
+![UI Image](
+
 - Move to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run .
 - From the Edit menu select New - String Value.
+
+![UI Image](
+
 - A column will appear 
+
+![UI Image](
+
 - Enter any name you want to save it as i.e. Calc at logon .
+
+![UI Image](
+
 - Double Click the new colomn/name; another column will appear called 'Value data'
+
+![UI Image](
+
 - In the Value data column, enter the path name of the programme i.e. Calc.exe
+
+
+
 - Click on okay
 
 - ###### Note that 'Calc.exe' is the path name for calculator on the sample system
