@@ -1,10 +1,10 @@
 # Practical A
 
-### Running a Program at System Logon for Persistency using Windows Registry
+# Running a Program at System Logon Using Windows Registry
 
-### Case Study: Calc.exe File 
+## Case Study: Calc.exe File 
 
-##### Accessing Windows Registry Through the Start Icon
+## Accessing Windows Registry Through the Start Icon
 
 - Click on the start icon on the keyboard or on the system
 
@@ -21,11 +21,13 @@
 
 ![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(12).png)
 
-- Note that Windows Registry is the Registry Editor.
+### Note that Windows Registry is the Registry Editor.
 
 
 
-##### Accessing Registry Editor Through 'regedit'
+
+## Accessing Registry Editor Through 'regedit'
+
 - Press the windows logo key + R .
 
 - You will see a search colomn, enter the command 
@@ -38,12 +40,13 @@ regedit
 
 ![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Image%201.png)
 
-- Boom!!! the Registry Editor is opened!!
+_Boom!!! the Registry Editor is opened!!
 
 ![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Image2.png)
 
 
-##### Steps to Run the Program on Registry Editor
+## Steps to Run the Program on Registry Editor
+
 - Click on Computer
 
 ![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(13).png)
@@ -70,12 +73,16 @@ regedit
 
 - Click on okay
 
-- ###### Note that 'Calc.exe' is the path name for calculator on the sample system
+#### Note that 'Calc.exe' is the path name for calculator on the sample system
 
 - Close the Registry Editor
 
-##### Restart Your System
+### Restart Your System
 
-#####Calc.exe file (Calculator) will run immediately on system logon
+### Calc.exe file (Calculator) will run immediately on system logon
 
+
+
+
+### This Method is used by Hackers to have persistence assess to a system through a Program earlier installed or sent to the users system. For example, a malware sent by an hacker to a system will stop being active once the user shutdown. However, with this setup in place for the malware, it will be active whenever the user logon the system again.
 
