@@ -30,6 +30,7 @@ regedit
 
 
 
+
 Boom!!! the Registry Editor is opened!!
 
 
