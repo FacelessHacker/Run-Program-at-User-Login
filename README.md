@@ -33,7 +33,7 @@ regedit
 
 - Boom!!! the Registry Editor is opened!!
 
-
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Image2.png)
 
 
 ##### Steps to Run the Program on Registry Editor
