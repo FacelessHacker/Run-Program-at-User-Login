@@ -27,10 +27,29 @@ regedit
 
 ```
 - Click okay.
+
+
+
 Boom!!! the Registry Editor is opened!!
 
 
 
 ##### Steps to Run the Program on Registry Editor
+- Click on Computer
+- Move to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run .
+- From the Edit menu select New - String Value.
+- A column will appear 
+- Enter any name you want to save it as i.e. Calc at logon .
+- Double Click the new colomn/name; another column will appear called 'Value data'
+- In the Value data column, enter the path name of the programme i.e. Calc.exe
+- Click on okay
 
-- hkjh
+- ###### Note that 'Calc.exe' is the path name for calculator on the sample system
+
+- Close the Registry Editor
+
+##### Restart Your System
+
+#####Calc.exe file (Calculator) will run immediately on system logon
+
+
