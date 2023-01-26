@@ -50,7 +50,7 @@ regedit
 
 - Move to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run .
 
-![UI Image](
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(16).png)
 
 - From the Edit menu select New - String Value.
 
