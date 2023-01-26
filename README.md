@@ -58,7 +58,7 @@ regedit
 
 - A column will appear 
 
-![UI Image](
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(18).png)
 
 - Enter any name you want to save it as i.e. Calc at logon .
 
