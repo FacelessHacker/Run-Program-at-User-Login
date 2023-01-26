@@ -62,15 +62,11 @@ regedit
 
 - Enter any name you want to save it as i.e. Calc at logon .
 
-![UI Image](
-
 - Double Click the new colomn/name; another column will appear called 'Value data'
-
-![UI Image](
 
 - In the Value data column, enter the path name of the programme i.e. Calc.exe
 
-
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(19).png)
 
 - Click on okay
 
