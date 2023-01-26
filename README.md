@@ -13,7 +13,7 @@
 
 - Enter 'Registry Editor' in the search colomn.
 
-![UI Image](
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(11).png)
 
 - Registry Editor App will appear, click on it.
 
