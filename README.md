@@ -1,6 +1,6 @@
 # Practical A
 
-# Running a Program at System Logon Using Windows Registry
+## Running a Program at System Logon Using Windows Registry
 
 ## Case Study: Calc.exe File 
 
