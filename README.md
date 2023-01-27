@@ -82,7 +82,6 @@ _Boom!!! the Registry Editor is opened!!
 ### Calc.exe file (Calculator) will run immediately on system logon
 
 
+### Graphical Representation of the above steps
 
-
-### This Method is used by Hackers to have persistence assess to a system through a Program earlier installed or sent to the users system. For example, a malware sent by an hacker to a system will stop being active once the user shutdown. However, with this setup in place for the malware, it will be active whenever the user logon the system again.
 
