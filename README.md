@@ -39,7 +39,7 @@ regedit
 ![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Image%201.png)
 
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Image%202.png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Image2.png)
 
 
 ### 3. Steps to Run the Program on Registry Editor
