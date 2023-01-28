@@ -36,9 +36,10 @@ regedit
 
      ##### Boom!!! the Registry Editor is opened!!
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Image%201.png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Image%201.png)
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Image2.png)
+
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Image%202.png)
 
 
 ### 3. Steps to Run the Program on Registry Editor
