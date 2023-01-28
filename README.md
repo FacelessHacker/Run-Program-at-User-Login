@@ -15,12 +15,12 @@
 
 
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(10).png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Screenshot%20(10).png)
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(11).png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Screenshot%20(11).png)
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(12).png)
 
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Screenshot%20(12).png)
 
 
 #### 2. Accessing Registry Editor Through 'regedit'
@@ -58,15 +58,15 @@ regedit
 - In the Value data column, enter the path name of the programme i.e. Calc.exe .
 
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(13).png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Screenshot%20(13).png)
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(16).png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Screenshot%20(16).png)
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(17).png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Screenshot%20(17).png)
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(18).png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Screenshot%20(18).png)
 
-![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/Screenshot%20(19).png)
+![UI Image](https://github.com/FacelessHacker/Rahmah/blob/main/pictures/Screenshot%20(19).png)
 
 - Click on okay.
 
